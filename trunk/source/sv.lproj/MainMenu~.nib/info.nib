@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IBDocumentLocation</key>
+	<string>197 116 435 514 0 0 1680 1028 </string>
+	<key>IBEditorPositions</key>
+	<dict>
+		<key>1139</key>
+		<string>605 149 152 472 0 0 1680 1028 </string>
+		<key>1225</key>
+		<string>630 611 420 192 0 0 1680 1028 </string>
+		<key>274</key>
+		<string>630 549 420 317 0 0 1680 1028 </string>
+		<key>282</key>
+		<string>630 648 420 118 0 0 1680 1028 </string>
+		<key>353</key>
+		<string>630 589 420 237 0 0 1680 1028 </string>
+		<key>394</key>
+		<string>630 472 420 470 0 0 1680 1028 </string>
+		<key>494</key>
+		<string>98 614 303 87 0 0 1680 1028 </string>
+		<key>622</key>
+		<string>392 455 372 44 0 0 1680 1028 </string>
+		<key>924</key>
+		<string>630 578 420 259 0 0 1680 1028 </string>
+		<key>965</key>
+		<string>99 507 183 87 0 0 1680 1028 </string>
+	</dict>
+	<key>IBFramework Version</key>
+	<string>446.1</string>
+	<key>IBLockedObjects</key>
+	<array>
+		<integer>207</integer>
+	</array>
+	<key>IBOldestOS</key>
+	<integer>3</integer>
+	<key>IBOpenObjects</key>
+	<array>
+		<integer>274</integer>
+		<integer>353</integer>
+		<integer>509</integer>
+		<integer>494</integer>
+		<integer>924</integer>
+		<integer>1225</integer>
+		<integer>1139</integer>
+		<integer>622</integer>
+		<integer>207</integer>
+		<integer>394</integer>
+		<integer>965</integer>
+		<integer>282</integer>
+		<integer>699</integer>
+	</array>
+	<key>IBSystem Version</key>
+	<string>8J135</string>
+	<key>IBUserGuides</key>
+	<dict>
+		<key>394</key>
+		<dict>
+			<key>guideLocations</key>
+			<array>
+				<string>Vertical:52.000000</string>
+			</array>
+			<key>guidesLocked</key>
+			<false/>
+		</dict>
+		<key>699</key>
+		<dict>
+			<key>guideLocations</key>
+			<array>
+				<string>Vertical:169.000000</string>
+				<string>Vertical:477.000000</string>
+			</array>
+			<key>guidesLocked</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
